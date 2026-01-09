@@ -27,3 +27,5 @@ Rename empty-config.json to config.json and fill in the details.
   - Action `restart` restarts the bot server.
   - Action `stop` stops the bot server.
   - Returning Error: 401 means the botServerId and/or botServerApiKey in the config are incorrect.
+
+<p align="center">♻ Powered by Codump. | Cheers and enjoy recycling codes! ♻</p>

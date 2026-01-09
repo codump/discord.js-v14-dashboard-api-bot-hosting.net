@@ -9,6 +9,7 @@ A basic bot with a dashboard website and API on Bot-Hosting.net
 | CMD        | <samp>`git clone https://github.com/codump/discord.js-v14-dashboard-api-bot-hosting.net && cd discord.js-v14-dashboard-api-bot-hosting.net && npm install`</samp>           |
 | ------------- |:-------------:|
 | **PowerShell**     | **<samp>`git clone https://github.com/codump/discord.js-v14-dashboard-api-bot-hosting.net ; cd discord.js-v14-dashboard-api-bot-hosting.net ; npm install`</samp>** |
+
 Rename empty-config.json to config.json and fill in the details.
 
 Slash command on discord `/botserver` -> action

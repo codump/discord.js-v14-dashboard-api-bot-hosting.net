@@ -5,7 +5,7 @@ A basic bot with a dashboard website and API on Bot-Hosting.net
 > Still in development.
 
 ## Full installation guide
-Follows later.
+Will follow later.
 
 ## Know what I'm doing installation
 

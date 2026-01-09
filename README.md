@@ -1,5 +1,5 @@
 # Codumpus
-A basic bot with a dashboard website and API on Bot-Hosting.net
+A dashboard bot with website and API on Bot-Hosting.net
 
 > [!CAUTION]
 > Still in development.

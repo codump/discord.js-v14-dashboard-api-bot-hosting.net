@@ -1,7 +1,7 @@
 {
   "name": "codumpus",
   "version": "0.1.1",
-  "description": "A basic bot with a dashboard website and API on Bot-Hosting.net",
+  "description": "A dashboard bot with website and API on Bot-Hosting.net",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",

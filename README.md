@@ -1,4 +1,4 @@
-# codumpus
+# Codumpus
 A basic bot with a dashboard website and API on Bot-Hosting.net
 
 > [!CAUTION]

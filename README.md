@@ -9,9 +9,9 @@ Will follow later.
 
 ## Know what I'm doing installation
 
-| CMD        | <samp>`git clone https://github.com/codump/codumpus && cd codumpus && npm install`</samp>           |
+| CMD        | <samp>`git clone https://github.com/codump/codumpus . && npm install`</samp>           |
 | ------------- |:-------------:|
-| **PowerShell**     | **<samp>`git clone https://github.com/codump/codumpus ; cd codumpus ; npm install`</samp>** |
+| **PowerShell**     | **<samp>`git clone https://github.com/codump/codumpus . ; npm install`</samp>** |
 
 Rename empty-config.json to config.json and fill in the details.
 

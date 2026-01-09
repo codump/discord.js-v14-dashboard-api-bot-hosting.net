@@ -1,6 +1,5 @@
 const { SlashCommandBuilder, MessageFlags, AttachmentBuilder } = require('discord.js')
-const { botServerId, botServerApiKey } = require('../config.json') // Or handle the botServerId and botServerApiKey in your own way
-// Full options see: https://api.ptero.sh/#/ and https://bot-hosting.net/
+const { botServerId, botServerApiKey, masterUid } = require('../config.json') 
 
 module.exports = {
 	data: new SlashCommandBuilder()
@@ -20,6 +19,7 @@ module.exports = {
 	  )
 		.setDefaultMemberPermissions(0),
 	async execute(interaction) {
+  if (interaction.member.user.id === masterUid){
     const action = interaction.options.getString('action')
 
     // info
@@ -62,6 +62,9 @@ module.exports = {
       });
     }
     // start / restart / stop
+  }  else {
+		await interaction.reply({ content: "Only the master can use this command." });
+  }
 
 	},
 }

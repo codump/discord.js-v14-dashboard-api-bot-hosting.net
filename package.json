@@ -1,5 +1,5 @@
 {
-  "name": "discord.js-v14-dashboard-api-bot-hosting.net",
+  "name": "codumpus",
   "version": "0.1.1",
   "description": "A basic bot with a dashboard website and API on Bot-Hosting.net",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codump/discord.js-v14-dashboard-api-bot-hosting.net.git"
+    "url": "git+https://github.com/codump/codumpus.git"
   },
   "keywords": [
     "discord.js"
@@ -17,9 +17,9 @@
   "author": "Codump",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codump/discord.js-v14-dashboard-api-bot-hosting.net/issues"
+    "url": "https://github.com/codump/codumpus/issues"
   },
-  "homepage": "https://github.com/codump/discord.js-v14-dashboard-api-bot-hosting.net#readme",
+  "homepage": "https://github.com/codump/codumpus#readme",
   "dependencies": {
     "discord.js": "^14.25.1",
     "nodemon": "^3.1.11"

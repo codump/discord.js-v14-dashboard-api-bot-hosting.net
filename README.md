@@ -5,7 +5,7 @@ A dashboard bot with website and API on Bot-Hosting.net
 > Still in development.
 
 ## Full installation guide
-Check out our [wiki for a complete installation guide](https://github.com/codump/codumpus/wiki).
+Check out our [wiki for a complete installation](https://github.com/codump/codumpus/wiki) guide.
 
 ## Quick installation
 
